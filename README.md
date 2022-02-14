@@ -1,4 +1,4 @@
-### Olá!! Eu sou Cláudio Henrique! 👋🏻
+### Olá!! Bem vindo(a)! Eu sou Cláudio! 👋🏻
 
 :mag_right: &nbsp; Atualmente estou trabalhando na área da eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor 
  <br/> :rocket: &nbsp; Estou  estudando na Origamid e nos Bootcamp da Digital Innovation One. 
