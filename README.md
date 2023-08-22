@@ -1,9 +1,8 @@
 ### Olá!! Bem vindo(a)! Eu sou Cláudio!
 
 :mag_right: &nbsp; Atualmente estou trabalhando na área da eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor 
- <br/> :rocket: &nbsp; Estou  estudando na Origamid e nos Bootcamp da Digital Innovation One. 
+ <br/> :rocket: &nbsp; Estou estudado desenvolvimento de aplicações com o .NET MAUI pela plataforma UDEMY. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em JS, HTML s CSS mas estou sempre aberto a coisas novas!
- <br/> :computer: &nbsp; Minha stack: HTML, CSS  & javascript.
 
 <div align="center">
   <a href="https://github.com/Chag390">
