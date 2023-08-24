@@ -1,6 +1,6 @@
 ### Olá!! Bem vindo(a)! Eu sou Cláudio!
 
-:mag_right: &nbsp; Atualmente estou trabalhando na área da eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor 
+:mag_right: &nbsp; Atualmente estou trabalhando na área da eletrônica e procuro uma oportunidade para trabalhar como Desenvolvedor.
  <br/> :rocket: &nbsp; Estou estudado desenvolvimento de aplicações com o .NET MAUI pela plataforma UDEMY. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em .NET MAUI!
 
